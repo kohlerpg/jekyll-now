@@ -1,19 +1,20 @@
 ---
 layout: page
-title: About
+title: About This Site
 permalink: /about/
 published: true
 ---
 
 
-IT Professional, Amateur Photographer and Gadget Junkie. 
+I am using this blog to post information on the various projects that I get involved in.  Anything from PLEX to gardening.  From time to time I will post about my hobbies and technology.    
+
 
 ### Interests Include
 
+- Photography
+- Astronomy
+- Programming
 - PLEX
 - Music
 - Vinyl
 - Emerging Technologies
-
-
-
